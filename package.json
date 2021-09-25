@@ -1,0 +1,16 @@
+{
+  "name": "epos-git-domaci-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://kikiriki367.github.io/gitdomaci",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
